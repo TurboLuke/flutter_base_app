@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
 
   Padding _menuItems(List<MenuItemModel> menuItems) {
     return Padding(
-      padding: const EdgeInsets.all(20),
+   padding: const EdgeInsets.all(20),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -62,7 +62,6 @@ class HomePage extends StatelessWidget {
             itemCount: menuItems.length,
             shrinkWrap: true,
             separatorBuilder: (context, index) => const SizedBox(height: 25),
-            padding: const EdgeInsets.only(left: 20, right: 20),
             itemBuilder: (context, index) {
               return Container(
                 height: 100,

@@ -36,9 +36,7 @@ class DetailPage extends StatelessWidget {
               ),
             ),
             Container(
-              height:
-                  MediaQuery.of(context).size.height -
-                  400, // calculate the height of the remaining screen
+              height: 700, // calculate the height of the remaining screen
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.only(
