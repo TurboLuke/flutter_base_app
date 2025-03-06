@@ -8,5 +8,8 @@ A two paged Flutter base prototype project based on this UI Mockup: https://www.
 
 ## Base App (iOS)
 
-![UI Mockup](flutterbaseapp-showcase.gif)
+<div align="center">
 
+<img src="flutterbaseapp-showcase.gif" alt="baseapp-gif" width="400" height="400"/>
+
+</div>
