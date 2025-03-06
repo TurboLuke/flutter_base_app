@@ -10,6 +10,6 @@ A two paged Flutter base prototype project based on this UI Mockup: https://www.
 
 <div align="center">
 
-<img src="flutterbaseapp-showcase.gif" alt="baseapp-gif" width="400" height="400"/>
+<img src="flutterbaseapp-showcase.gif" alt="baseapp-gif" width="400" />
 
 </div>
