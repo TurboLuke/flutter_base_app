@@ -1,4 +1,4 @@
-# flutter_base_app
+# Flutter Base App
 
 
 ## UI Mockup
