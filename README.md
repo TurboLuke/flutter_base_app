@@ -8,5 +8,5 @@ A two paged Flutter base prototype project based on this UI Mockup: https://www.
 
 ## Base App (iOS)
 
-![UI Mockup](flutterbaseapp-showcase.gif){ width=200 }
+![UI Mockup](flutterbaseapp-showcase.gif)
 
